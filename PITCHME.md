@@ -9,36 +9,47 @@ HZB
 
 ---
 
-### What is Kubernetes?
+### What is metadata?
 
-> Kubernetes is an open-source system for automating
-> deployment, scaling, and management of containerized
-> applications.
+- a set of data that describes and gives information about other data.
+- administrative
+- structural
+- descriptive
 
-- https://kubernetes.io/
-- [KubeCon in Cph 2018](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2018/)
+---
+### Metadata at ESS
+
+
+- Scientific data is complex
+- Not always predictable what is important
+- Most scientific data is not FAIR
+- Findable 
+- Accessible
+- Interoperable
+- Reproducible
 
 
 ---
 
-### Kubernetes/K8s
+### Currently metadata can be stored
 
-- from Greek word κυβερνήτης meaning helmsman/rorsman/timonier/steuermann.
-- also root of cybernetics, governor
-- Originally developed from Google cluster management system, Borg
-
-
-
-
+- In filename
+- In Excel files
+- Not at all
 
 ---
 
-### What do we want to deploy?
+### Using a data catalogue
 
+- One source of information
+- All data can be found through this
+- Manages permissions, publication
+- User reads a publication, can get data from catalogue
 
-- SciCat Data Catalogue
-- developed by in-kind collaborators at PSI (S. Egli, C. Gwilliams)
-- Make ESS metadata available to users
-- Easily findable, accessible, interoperable, reusable (FAIR)
-- Open source - https://github.com/ScicatProject
+---
+
+### SciCat
+
+---
+
 

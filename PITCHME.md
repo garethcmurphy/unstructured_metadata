@@ -21,6 +21,7 @@ HZB
 
 
 - Scientific data is complex
+- Different experiments give different data
 - Not always predictable what is important
 - Most scientific data is not FAIR
 - Findable 

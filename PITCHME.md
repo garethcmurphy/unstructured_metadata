@@ -49,31 +49,30 @@ Helmholtz-Zentrum Berlin
 ### SciCat
 
 
-Manage the meta data of raw and derived data which is taken at
+- Manage the meta data of raw and derived data which is taken at
 experiment facilities
-Meta data
-administrative : data management lifecycle, ownership, filecatalog
-scientific: describing the sample, beamline and experiment
+- Meta data
+- administrative : data management lifecycle, ownership, filecatalog
+- scientific: describing the sample, beamline and experiment
 parameters relevant for the users data analysis
 ---
 
 ### SciCat
-Enables management of the lifecycle of the data from creation ,
+- Enables management of the lifecycle of the data from creation ,
 data analysis and eventual deletion
-Data can be linked to proposals and samples
-Data can be linked to publications (DOI, PID)
-Data can be migrated to and from longterm storage on tape
+- Data can be linked to proposals and samples
+- Data can be linked to publications (DOI, PID)
+- Data can be migrated to and from longterm storage on tape
 
 ---
 
 ### SciCat
-Helps keeping track of data provenance (i.e. the steps leading to
+- Helps keeping track of data provenance (i.e. the steps leading to
 the final results)
-Allows to check scientific integrity (checksum of data)
-Allows to find data based on the meta data (your own data and
+- Allows to check scientific integrity (checksum of data)
+- Allows to find data based on the meta data (your own data and
 other peoples public data)
-In the long term:
-help to automate standardized analysis workflow
+- In the long term:help to automate standardized analysis workflow
 ---
 
 

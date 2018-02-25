@@ -220,9 +220,9 @@ helm install catamel --name catamel  \
 ### Deployment of scicat
 
 - still outstanding:
-- Ingress
 - persistent storage
-- Active directory
+- file viewer
+- data download
 
 ---
 

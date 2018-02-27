@@ -67,10 +67,10 @@ data analysis and eventual deletion
 ---
 
 ### SciCat
-- Helps keeping track of data provenance (i.e. the steps leading to
+- Reproducibility- Helps keeping track of data provenance (i.e. the steps leading to
 the final results)
-- Allows to check scientific integrity (checksum of data)
-- Allows to find data based on the meta data (your own data and
+- Allows checking scientific integrity (checksum of data)
+- Finadbility - Allows find data based on the meta data (your own data and
 other peoples public data)
 - In the long term:help to automate standardized analysis workflow
 ---
@@ -119,31 +119,7 @@ other peoples public data)
 - for each of 5 microservices, 4 configurations = 20 config files
 
 
----
 
-## Install packages via Helm
-
-- Helm can short circuit this process
-- Package manager for Kubernetes
-- Equivalent of apt or yum
-- Prepackaged k8s deployments available
-- https://github.com/kubernetes/charts
-
----
-
-## Install packages via Helm
-- A helm chart includes template .yaml files for deployment,
-service etc.
-```
-helm install stable/mongodb
-```
-- Can use helm to install from custom Docker image
-```
-helm install catamel --name catamel  \
- --set image.tag=$IMAGEVERSION  \
- --set image.repository=dacat/catamel
-```
----
 
 ### MongoDB
 

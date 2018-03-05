@@ -21,8 +21,8 @@ Helmholtz-Zentrum Berlin
 
 
 - Scientific data is complex
-- Different experiments give different data
 - Not always predictable what is important
+- Keep all data and make it easy to search for important features?
 - Most scientific data is unFAIR
 - Findable, Accessible, Interoperable, Reproducible
 

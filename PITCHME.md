@@ -20,7 +20,7 @@ Helmholtz-Zentrum Berlin
 
 ### SCIENTIFIC METADATA
 
-''' scientific metadata is often notoriously incomplete. Additional quantities and assumptions necessary to interpret the data may initially only be recorded on scraps of paper, hard-coded into analysis software or only exist in the experimenter's head.
+> … is often notoriously incomplete. Additional quantities and assumptions necessary to interpret the data may initially only be recorded on scraps of paper, hard-coded into analysis software or only exist in the experimenter's head.
 
 - more extensive 
 - less predictable 

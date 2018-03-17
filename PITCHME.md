@@ -17,6 +17,24 @@ Helmholtz-Zentrum Berlin
 - descriptive
 
 ---
+
+### SCIENTIFIC METADATA
+
+- more extensive 
+- less predictable 
+- "unknown unknowns"
+- units need to be included 
+
+---
+
+### Existing tools
+
+- performance and flexibility issues 
+- SQL database technology aging
+- nosql offers more opportunities for unstructured data 
+
+
+---
 ### Metadata at ESS
 
 

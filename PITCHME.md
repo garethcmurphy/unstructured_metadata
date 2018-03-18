@@ -33,7 +33,8 @@ Helmholtz-Zentrum Berlin
 - performance and flexibility issues 
 - SQL database technology aging
 - NoSQL offers more opportunities for unstructured data
-
+- SQL is highly structured in tables with rows and columns
+- MongoDB, a NoSQL DB,  uses documents organised in collections.
 
 ---
 ### Metadata at ESS
@@ -59,7 +60,7 @@ Helmholtz-Zentrum Berlin
 ### Using a data catalogue
 
 - One source of information
-- All data can be found through this
+- All data can be found on one website
 - Manages permissions, publication
 - User reads a publication, can get data from catalogue
 
@@ -68,13 +69,31 @@ Helmholtz-Zentrum Berlin
 
 ### SciCat
 
-
+- [www.github.com/ScicatProject]
 - Manage the meta data of raw and derived data which is taken at
 experiment facilities
 - Meta data
-- administrative : data management lifecycle, ownership, filecatalog
+- administrative : data management lifecycle, ownership, file
 - scientific: describing the sample, beamline and experiment
 parameters relevant for the users data analysis
+---
+
+### Dataset, Datafile, Datablocks
+
+- A dataset is a collection of files
+- Has an owner, ORCid, 
+- A datafile has path, size, permissions
+- Datablocks are storage media for archiving, one datafile can be stored across on or more datablocks
+
+---
+
+### Scientific Metadata 
+
+- Each dataset stores scientific metadata as an array.
+- Users will be able to add their own metadata fields.
+
+- 
+
 ---
 
 ### SciCat
@@ -90,7 +109,7 @@ data analysis and eventual deletion
 - Reproducibility- Helps keeping track of data provenance (i.e. the steps leading to
 the final results)
 - Allows checking scientific integrity (checksum of data)
-- Finadbility - Allows find data based on the meta data (your own data and
+- Findability - Allows find data based on the meta data (your own data and
 other peoples public data)
 - In the long term:help to automate standardized analysis workflow
 ---

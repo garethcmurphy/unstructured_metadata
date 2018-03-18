@@ -51,7 +51,7 @@ Helmholtz-Zentrum Berlin
 </ul>
 </div>
 <div class="essinst">
-![essinst](assets/ESS_inst.png)
+![essinst](assets/ESS_inst.jpg)
 </div>
 
 

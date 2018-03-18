@@ -62,7 +62,7 @@ Helmholtz-Zentrum Berlin
 </ul>
 </div>
 <div class="right">
-	![Logo](assets/externalhd.jpg)
+<img src="https://github.com/garethcmurphy/unstructured_metadata/blob/master/assets/externalhd.jpg" style="width: 30%;
 </div>
 
 ---

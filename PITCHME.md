@@ -81,7 +81,7 @@ Helmholtz-Zentrum Berlin
 <li> User reads a publication, can get data from catalogue</li>
 </ul>
 </div>
-<div class="external">
+<div class="onering">
 ![test](assets/onering.jpg)
 </div>
 ---

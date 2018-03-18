@@ -1,3 +1,11 @@
+
+.reveal img.essinst{
+    display:inline-block;
+    width:30%;
+    background-color: transparent;
+    border:0px;
+}
+
 .gold {
   color: #e49436;
 }

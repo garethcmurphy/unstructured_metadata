@@ -67,15 +67,23 @@ Helmholtz-Zentrum Berlin
 
 ---
 
----
 
 ### Using a data catalogue
 
-- One source of information
-- All data can be found on one website
-- Manages permissions, publication
-- User reads a publication, can get data from catalogue
 
+
+<br>
+<div class="left">
+<ul>
+<li> One source of information</li>
+<li> All data can be found on one website</li>
+<li> Manages permissions, publication</li>
+<li> User reads a publication, can get data from catalogue</li>
+</ul>
+</div>
+<div class="external">
+![test](assets/onering.jpg)
+</div>
 ---
 
 

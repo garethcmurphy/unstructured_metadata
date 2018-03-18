@@ -69,7 +69,7 @@ Helmholtz-Zentrum Berlin
 
 ### SciCat
 
-- [www.github.com/ScicatProject](github.com/Scicatproject)
+- [http://www.github.com/ScicatProject](https://www.github.com/Scicatproject)
 - Manage the meta data of raw and derived data which is taken at
 experiment facilities
 - Meta data

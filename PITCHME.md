@@ -294,4 +294,6 @@ other peoples public data)
 ## Conclusion
 
 - SciCat on Kubernetes will be able to provide metadata services for ESS users needs
+- MongoDB backend can handle unstructured metadata
+- Users will be able to add their own metadata
 

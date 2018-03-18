@@ -23,8 +23,7 @@ Helmholtz-Zentrum Berlin
 > … is often notoriously incomplete. Additional quantities and assumptions necessary to interpret the data may initially only be recorded on scraps of paper, hard-coded into analysis software or only exist in the experimenter's head.
 
 - more extensive 
-- less predictable 
-- "unknown unknowns"
+- less predictable - "unknown unknowns"
 
 ---
 
@@ -49,11 +48,25 @@ Helmholtz-Zentrum Berlin
 
 ---
 
-### Currently metadata can be stored
 
-- In filename (run1_vanadium) - not scalable
-- In Excel files - not accessible
-- Not at all
+
+---
+
+### <span class="gold">Currently metadata can be stored </span>
+
+<br>
+<div class="left">
+<ul>
+<li> In filename (run1_vanadium) - not scalable</li>
+<li> In Excel files - not accessible</li>
+<li> Not at all</li>
+</ul>
+</div>
+<div class="right">
+	![Logo](assets/external-hd.jpg)
+</div>
+
+---
 
 ---
 
@@ -72,7 +85,6 @@ Helmholtz-Zentrum Berlin
 - [github.com/ScicatProject](https://github.com/Scicatproject)
 - Manage the meta data of raw and derived data which is taken at
 experiment facilities
-- Meta data
 - administrative : data management lifecycle, ownership, file
 - scientific: describing the sample, beamline and experiment
 parameters relevant for the users data analysis
@@ -80,11 +92,18 @@ parameters relevant for the users data analysis
 
 ### Dataset, Datafile, Datablocks
 
-- A dataset is a collection of files
-- Has an owner, ORCid, 
+- A dataset includes all metadata related to a set of tiles
+- Has an owner, ORCid, creation  time, science metadata  etc, and includes datafile references
 - A datafile has path, size, permissions
 - Datablocks are storage media for archiving, one datafile can be stored across on or more datablocks
 
+---
+
+### Raw Dataset vs Derived Dataset
+
+- RawDataset - experimental data directly from beamline
+- Derived Dataset - has extra fields indicating origin of generated data.
+- 
 ---
 
 ### Scientific Metadata 

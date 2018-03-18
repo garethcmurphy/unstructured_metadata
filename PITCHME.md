@@ -57,7 +57,7 @@ Helmholtz-Zentrum Berlin
 <br>
 <div class="left">
 <ul>
-<li> In filename (run1_vanadium) - not scalable</li>
+<li> In filename (run1_vanadium)</li>
 <li> In Excel files - not accessible</li>
 <li> Not at all</li>
 </ul>

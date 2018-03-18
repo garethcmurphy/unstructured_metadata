@@ -40,11 +40,20 @@ Helmholtz-Zentrum Berlin
 ### Metadata at ESS
 
 
-- Metadata is complex
-- Not always predictable what is important
-- Keep all data and make it easy to search for important features?
-- Most scientific data is unFAIR
-- Findable, Accessible, Interoperable, Reproducible
+
+<br>
+<div class="left">
+<ul>
+<li> ESS Metadata is complex</li>
+<li> Not always predictable what is important</li>
+<li> Keep all data and make it easy to search for important features?</li>
+<li> Most scientific data is unFAIR</li>
+<li> Findable, Accessible, Interoperable, Reproducible</li>
+</ul>
+</div>
+<div class="external">
+![test](assets/ESS_inst.png)
+</div>
 
 
 
@@ -58,7 +67,7 @@ Helmholtz-Zentrum Berlin
 <div class="left">
 <ul>
 <li> In filename (run1_vanadium)</li>
-<li> In Excel files - not accessible</li>
+<li> In Excel files on HDD or Dropbox - not accessible</li>
 <li> Not at all</li>
 </ul>
 </div>

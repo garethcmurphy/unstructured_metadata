@@ -46,13 +46,12 @@ Helmholtz-Zentrum Berlin
 <ul>
 <li> ESS Metadata is complex</li>
 <li> Not always predictable what is important</li>
-<li> Keep all data and make it easy to search for important features?</li>
 <li> Most scientific data is unFAIR</li>
 <li> Findable, Accessible, Interoperable, Reproducible</li>
 </ul>
 </div>
-<div class="external">
-![test](assets/ESS_inst.png)
+<div class="essinst">
+![essinst](assets/ESS_inst.png)
 </div>
 
 

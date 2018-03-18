@@ -128,12 +128,25 @@ parameters relevant for the users data analysis
 <div class="derived">
 ![test](assets/derived.jpg)
 </div>
+
 ---
 
 ### Scientific Metadata 
 
-- Each dataset stores scientific metadata as an array.
-- Users will be able to add their own metadata fields.
+<br>
+<div class="left">
+<ul>
+<li>
+Each dataset stores scientific metadata as an array.
+</li>
+<li> 
+Users will be able to add their own metadata fields.
+</li>
+</ul>
+</div>
+<div class="add_sample">
+![test](assets/add_sample.png)
+</div>
 
 ---
 

@@ -212,6 +212,12 @@ other peoples public data)
 - for each of 5 microservices, 4 configurations = 20 config files
 
 
+---
+
+### Dashboard Overview
+
+![kube1](assets/overview.png)
+---
 
 
 ### MongoDB
@@ -269,14 +275,9 @@ other peoples public data)
 
 ---
 
-### Dashboard Overview
+### Data managment
 
-![kube1](assets/overview.png)
----
-
-### Pods Overview
-
-![kube2](assets/pods.png)
+![catamel](assets/data_management.png)
 
 
 ---

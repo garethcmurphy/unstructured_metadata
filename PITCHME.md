@@ -61,8 +61,8 @@ Helmholtz-Zentrum Berlin
 <li> Not at all</li>
 </ul>
 </div>
-<div class="right">
-<img src="https://github.com/garethcmurphy/unstructured_metadata/blob/master/assets/externalhd.jpg" style="width: 30%;"/>
+<div class="external">
+![test](assets/externalhd.jpg)
 </div>
 
 ---

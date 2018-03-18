@@ -258,11 +258,6 @@ other peoples public data)
 ### Pods Overview
 
 ![kube2](assets/pods.png)
----
-
-###  Pod CPU & Memory
-
-![kube3](assets/kuberabbit.png)
 
 
 ---

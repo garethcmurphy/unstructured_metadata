@@ -25,22 +25,21 @@ Helmholtz-Zentrum Berlin
 - more extensive 
 - less predictable 
 - "unknown unknowns"
-- units need to be included 
 
 ---
 
-### Existing tools
+### Why not use existing tools?
 
 - performance and flexibility issues 
 - SQL database technology aging
-- nosql offers more opportunities for unstructured data 
+- NoSQL offers more opportunities for unstructured data
 
 
 ---
 ### Metadata at ESS
 
 
-- Scientific data is complex
+- Metadata is complex
 - Not always predictable what is important
 - Keep all data and make it easy to search for important features?
 - Most scientific data is unFAIR
@@ -65,6 +64,7 @@ Helmholtz-Zentrum Berlin
 - User reads a publication, can get data from catalogue
 
 ---
+
 
 ### SciCat
 

@@ -7,3 +7,4 @@ highlight : solarized-light
 logo : assets/biglogo.png
 
 theme : white
+theme-override : assets/css/PITCHME.css

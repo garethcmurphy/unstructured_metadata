@@ -46,7 +46,6 @@ Helmholtz-Zentrum Berlin
 - Findable, Accessible, Interoperable, Reproducible
 
 
----
 
 
 

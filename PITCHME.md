@@ -62,7 +62,7 @@ Helmholtz-Zentrum Berlin
 </ul>
 </div>
 <div class="right">
-	![Logo](assets/external-hd.jpg)
+	![Logo](assets/externalhd.jpg)
 </div>
 
 ---

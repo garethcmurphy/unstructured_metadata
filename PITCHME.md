@@ -69,7 +69,7 @@ Helmholtz-Zentrum Berlin
 
 ### SciCat
 
-- [https://github.com/ScicatProject](https://github.com/Scicatproject)
+- [github.com/ScicatProject](https://github.com/Scicatproject)
 - Manage the meta data of raw and derived data which is taken at
 experiment facilities
 - Meta data
@@ -132,7 +132,7 @@ other peoples public data)
 
 ### Kubernetes Deployment
 
-- Can test kubernetes deployment using minikube, wihout installing a full cluster
+- Can test kubernetes deployment using minikube, without installing a full cluster
 - Try it yourself!
 - Working minikube config at http://www.github.com/ScicatProject/localdeploy
 - RBAC disabled by default - can re-enable

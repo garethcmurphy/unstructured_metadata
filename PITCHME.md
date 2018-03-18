@@ -93,6 +93,7 @@ Helmholtz-Zentrum Berlin
 <div class="onering">
 ![test](assets/onering.jpg)
 </div>
+
 ---
 
 
@@ -117,17 +118,22 @@ parameters relevant for the users data analysis
 
 ### Raw Dataset vs Derived Dataset
 
-- RawDataset - experimental data directly from beamline
-- Derived Dataset - has extra fields indicating origin of generated data.
-- 
+<br>
+<div class="left">
+<ul>
+<li> RawDataset - experimental data directly from beamline</li>
+<li> Derived Dataset - has extra fields indicating origin of generated data.</li>
+</ul>
+</div>
+<div class="derived">
+![test](assets/derived.jpg)
+</div>
 ---
 
 ### Scientific Metadata 
 
 - Each dataset stores scientific metadata as an array.
 - Users will be able to add their own metadata fields.
-
-- 
 
 ---
 

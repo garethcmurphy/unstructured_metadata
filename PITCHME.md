@@ -13,9 +13,10 @@ Helmholtz-Zentrum Berlin
 
 - a set of data that describes and gives information about other data.
 - Can classify into separate types
-- administrative
-- structural
-- descriptive
+    - administrative
+    - structural
+    - descriptive
+    - scientific
 
 ---
 

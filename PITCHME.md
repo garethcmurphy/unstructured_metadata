@@ -257,11 +257,9 @@ other peoples public data)
 - Can be used to add in extra data cleaning  or processing
 
 
----
+---?image=assets/nodered.png&size=auto 90%
 
-### Node-RED
 
-![nodered](assets/nodered.png)
 
 ---
 
@@ -273,11 +271,7 @@ other peoples public data)
 - Also provides connectivity to authentication server(s)
 
 
----
-
-### Catamel
-
-![catamel](assets/catamel.png)
+---?image=assets/catamel.png&size=auto 90%
 
 
 

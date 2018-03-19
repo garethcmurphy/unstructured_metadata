@@ -26,15 +26,6 @@ Helmholtz-Zentrum Berlin
 - more extensive 
 - less predictable - "unknown unknowns"
 
----
-
-### Why not use existing tools?
-
-- performance and flexibility issues 
-- SQL database technology aging
-- NoSQL offers more opportunities for unstructured data
-- SQL is highly structured in tables with rows and columns
-- MongoDB, a NoSQL DB,  uses documents organised in collections.
 
 ---
 ### Metadata at ESS
@@ -93,7 +84,21 @@ Helmholtz-Zentrum Berlin
 <div class="onering">
 ![test](assets/onering.jpg)
 </div>
+---
 
+### Why not use existing tools?
+
+- performance and flexibility issues 
+- SQL database technology aging
+- NoSQL offers more opportunities for unstructured data
+- SQL is highly structured in tables with rows and columns
+- MongoDB, a NoSQL DB,  uses documents organised in collections.
+
+---
+
+### Data management
+
+![catamel](assets/data_management.png)
 ---
 
 
@@ -109,7 +114,7 @@ parameters relevant for the users data analysis
 
 ### Dataset, Datafile, Datablocks
 
-- A dataset includes all metadata related to a set of tiles
+- A dataset includes all metadata related to a set of files
 - Has an owner, ORCid, creation  time, science metadata  etc, and includes datafile references
 - A datafile has path, size, permissions
 - Datablocks are storage media for archiving, one datafile can be stored across on or more datablocks
@@ -273,11 +278,6 @@ other peoples public data)
 
 ![catamel](assets/catamel.png)
 
----
-
-### Data managment
-
-![catamel](assets/data_management.png)
 
 
 ---

@@ -198,11 +198,9 @@ other peoples public data)
 - RBAC disabled by default - can re-enable
 
 
----
+---?image=assets/kube_arch.png&size=auto 90%
 
-### Kubernetes architecture
 
-![kube](assets/kube_arch.png)
 
 
 ---
@@ -218,11 +216,9 @@ other peoples public data)
 - for each of 5 microservices, 4 configurations = 20 config files
 
 
----
 
-### Dashboard Overview
+---?image=assets/overview.png&size=auto 90%
 
-![kube1](assets/overview.png)
 ---
 
 
@@ -243,10 +239,8 @@ other peoples public data)
 - Data served by catamel
 - Viewable on PC, phone etc
 
----
+---?image=assets/catanie.png&size=auto 90%
 
-### Catanie
-![catanie](assets/catanie2.png)
 
 
 ---

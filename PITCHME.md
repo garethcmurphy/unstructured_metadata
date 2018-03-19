@@ -95,11 +95,9 @@ Helmholtz-Zentrum Berlin
 - SQL is highly structured in tables with rows and columns
 - MongoDB, a NoSQL DB,  uses documents organised in collections.
 
----
+---?image=assets/data_management.png&size=auto 90%
 
-### Data management
 
-![catamel](assets/data_management.png)
 ---
 
 
@@ -182,11 +180,9 @@ other peoples public data)
 - Message/job queuing system (currently RabbitMQ -> migrating to [Kafka](http://kafka.apache.org))
 - Flow-based editor [Node-RED](https://nodered.org/)
 
----
+---?image=assets/SciCat.png&size=auto 90%
 
-### SciCat architecture
 
-![scicat](assets/SciCat.png)
 
 ---
 

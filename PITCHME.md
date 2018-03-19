@@ -28,23 +28,19 @@ Helmholtz-Zentrum Berlin
 - less predictable - "unknown unknowns"
 
 
+---?image=assets/ESS_inst.png&size=auto 90%
+
+
 ---
 ### Metadata at ESS
 
 
+- ESS metadata is complex
+- Not always predictable what is important
+- Most scientific data is unFAIR
+- Findable, Accessible, Interoperable, Reproducible
 
-<br>
-<div class="left">
-<ul>
-<li> ESS Metadata is complex</li>
-<li> Not always predictable what is important</li>
-<li> Most scientific data is unFAIR</li>
-<li> Findable, Accessible, Interoperable, Reproducible</li>
-</ul>
-</div>
-<div class="essinst">
-![essinst](assets/ESS_inst.jpg)
-</div>
+
 
 
 

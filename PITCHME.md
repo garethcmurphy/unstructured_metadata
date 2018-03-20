@@ -4,7 +4,11 @@
 Gareth Murphy, European Spallation Source
 
 Helmholtz-Zentrum Berlin
+
 2018-03-19
+
+[![DOI](https://zenodo.org/badge/122607949.svg)](https://zenodo.org/badge/latestdoi/122607949)
+
 
 
 ---

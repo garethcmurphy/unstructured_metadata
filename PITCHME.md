@@ -11,7 +11,6 @@ Helmholtz-Zentrum Berlin
 
 [![DOI](https://zenodo.org/badge/122607949.svg)](https://zenodo.org/badge/latestdoi/122607949)[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-
 ---
 
 ### What is metadata?

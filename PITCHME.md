@@ -207,7 +207,7 @@ other peoples public data)
 - For each of the 5+ services we need to configure:
     1. Deployments
     2. Services
-    3. Pods (can be groups of containers, we typically use single containers)
+    3. Pods (groups or single containers)
     4. Ingress
 - for  5 services, 4 config = 20  files
 

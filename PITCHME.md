@@ -209,7 +209,7 @@ other peoples public data)
     2. Services
     3. Pods (can be groups of containers, we typically use single containers)
     4. Ingress
-- for each of 5 microservices, 4 configurations = 20 config files
+- for  5 services, 4 config = 20  files
 
 
 

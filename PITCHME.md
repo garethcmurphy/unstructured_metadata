@@ -11,8 +11,7 @@ Helmholtz-Zentrum Berlin
 
 [![DOI](https://zenodo.org/badge/122607949.svg)](https://zenodo.org/badge/latestdoi/122607949)
 
-https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
-
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ---

@@ -42,7 +42,7 @@ Helmholtz-Zentrum Berlin
 - ESS metadata is complex
 - Not always predictable what is important
 - Most scientific data is unFAIR
-- Findable, Accessible, Interoperable, Reproducible
+- Findable, Accessible, Interoperable, Re-usable
 
 
 
